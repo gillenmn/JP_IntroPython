@@ -5,7 +5,7 @@ Sea-level data extracted from the [NOAA Tides & Currents Gauge database](https:/
 
 This course also uses resources from the [CDSMS ESPIn open source curriculum](https://github.com/csdms/espin).
 
-Mark Piper, Benjamin Campforts, Irina Overeem, Nicole Gasparini, and Leilani Arthurs, 2020. Earth Surface Processes Institute (ESPIn) Course Material (Version v1.0). Zenodo. http://doi.org/10.5281/zenodo.4000979.
+*Mark Piper, Benjamin Campforts, Irina Overeem, Nicole Gasparini, and Leilani Arthurs, 2020. Earth Surface Processes Institute (ESPIn) Course Material (Version v1.0). Zenodo. http://doi.org/10.5281/zenodo.4000979.*
 
 All included links and additional resources were found as free Python materials through Google Searches.
 
