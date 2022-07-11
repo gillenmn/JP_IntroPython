@@ -1,5 +1,5 @@
-# IntroPython2021
-### This repository hosts the files from the MIT-WHOI Incoming JP Student Summer 2021 Math Review, Introduction to Python Course
+# JP_IntroPython
+### This repository hosts the files from the MIT-WHOI Incoming JP Student Summer Math Review, Introduction to Python Course
 #### The use of this repository is for MIT-WHOI JP Students and affiliates only, please contact me if you wish to use this course material.
 Sea-level data extracted from the [NOAA Tides & Currents Gauge database](https://tidesandcurrents.noaa.gov/map/).
 
@@ -11,4 +11,4 @@ All included links and additional resources were found as free Python materials 
 
 #### Created by: Megan Gillen (6-1-21)
 #### Collaborators: Mason Rogers, Rachel Kahn
-#### Last Updated: 7-13-21
+#### Last Updated: 7-11-22
